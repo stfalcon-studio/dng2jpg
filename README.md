@@ -10,7 +10,7 @@
 Требования при запуске:
 -----------
 
-Должен быть установлен кодек от Adobe: DNGCodec.dll
+Должен быть установлен кодек от Adobe: DNGCodec.dll http://www.adobe.com/support/downloads/product.jsp?product=194&platform=Windows
 
 Использование
 -----------
